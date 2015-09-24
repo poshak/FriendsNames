@@ -1,0 +1,27 @@
+{
+  "name": "FriendsNames",
+  "version": "1.0.0",
+  "description": "Get random Friends names",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/poshak/FriendsNames.git"
+  },
+  "keywords": [
+    "random",
+    "friends",
+    "names"
+  ],
+  "author": "Poshak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/poshak/FriendsNames/issues"
+  },
+  "homepage": "https://github.com/poshak/FriendsNames",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}

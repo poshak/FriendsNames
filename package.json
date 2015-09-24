@@ -1,5 +1,5 @@
 {
-  "name": "FriendsNames",
+  "name": "friendsnames",
   "version": "1.0.0",
   "description": "Get random Friends names",
   "main": "src/index.js",
